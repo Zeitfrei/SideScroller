@@ -1,0 +1,215 @@
+C:\Users\ZeitFrei\Documents\Visual Studio 2010\Projects\Game1\Game1\Game1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ZeitFrei\Documents\Visual Studio 2010\Projects\Game1\Game1\Game1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\ZeitFrei\Documents\Visual Studio 2010\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\player.xnb
+C:\Users\ZeitFrei\Documents\Visual Studio 2010\Projects\Game1\Game1\Game1\bin\x86\Debug\Game1.exe
+C:\Users\ZeitFrei\Documents\Visual Studio 2010\Projects\Game1\Game1\Game1\bin\x86\Debug\Game1.pdb
+C:\Users\ZeitFrei\Documents\Visual Studio 2010\Projects\Game1\Game1\Game1\obj\x86\Debug\Game1.exe
+C:\Users\ZeitFrei\Documents\Visual Studio 2010\Projects\Game1\Game1\Game1\obj\x86\Debug\Game1.pdb
+C:\Users\ZeitFrei\Documents\Visual Studio 2010\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\back2.xnb
+C:\Users\ZeitFrei\Documents\Visual Studio 2010\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\back1.xnb
+C:\Users\ZeitFrei\Documents\Visual Studio 2010\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\back3.xnb
+C:\Users\ZeitFrei\Documents\Visual Studio 2010\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\star.xnb
+C:\Users\ZeitFrei\Documents\Visual Studio 2010\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\bgm1.xnb
+C:\Users\ZeitFrei\Documents\Visual Studio 2010\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\bgm1.wma
+C:\Users\ZeitFrei\Documents\Visual Studio 2010\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\boss.xnb
+C:\Users\ZeitFrei\Documents\Visual Studio 2010\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\credits.xnb
+C:\Users\ZeitFrei\Documents\Visual Studio 2010\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\death.xnb
+C:\Users\ZeitFrei\Documents\Visual Studio 2010\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\intro.xnb
+C:\Users\ZeitFrei\Documents\Visual Studio 2010\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\level1.xnb
+C:\Users\ZeitFrei\Documents\Visual Studio 2010\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\level2.xnb
+C:\Users\ZeitFrei\Documents\Visual Studio 2010\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\level3.xnb
+C:\Users\ZeitFrei\Documents\Visual Studio 2010\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\level4.xnb
+C:\Users\ZeitFrei\Documents\Visual Studio 2010\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\level5.xnb
+C:\Users\ZeitFrei\Documents\Visual Studio 2010\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\start.xnb
+C:\Users\ZeitFrei\Documents\Visual Studio 2010\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\boss.wma
+C:\Users\ZeitFrei\Documents\Visual Studio 2010\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\credits.wma
+C:\Users\ZeitFrei\Documents\Visual Studio 2010\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\death.wma
+C:\Users\ZeitFrei\Documents\Visual Studio 2010\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\intro.wma
+C:\Users\ZeitFrei\Documents\Visual Studio 2010\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\level1.wma
+C:\Users\ZeitFrei\Documents\Visual Studio 2010\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\level2.wma
+C:\Users\ZeitFrei\Documents\Visual Studio 2010\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\level3.wma
+C:\Users\ZeitFrei\Documents\Visual Studio 2010\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\level4.wma
+C:\Users\ZeitFrei\Documents\Visual Studio 2010\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\level5.wma
+C:\Users\ZeitFrei\Documents\Visual Studio 2010\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\start.wma
+C:\Users\ZeitFrei\Documents\Visual Studio 2010\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\laser1.xnb
+C:\Users\ZeitFrei\Documents\Visual Studio 2010\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\laser2.xnb
+C:\Users\ZeitFrei\Documents\Visual Studio 2010\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\laser3.xnb
+C:\Users\ZeitFrei\Documents\Visual Studio 2010\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\laser4_0.xnb
+C:\Users\ZeitFrei\Documents\Visual Studio 2010\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\laser5.xnb
+C:\Users\ZeitFrei\Documents\Visual Studio 2010\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\laser6.xnb
+C:\Users\ZeitFrei\Documents\Visual Studio 2010\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\laser7.xnb
+C:\Users\ZeitFrei\Documents\Visual Studio 2010\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\laser8.xnb
+C:\Users\ZeitFrei\Documents\Visual Studio 2010\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\laser9.xnb
+C:\Users\ZeitFrei\Documents\Visual Studio 2010\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\shot1.xnb
+C:\Users\ZeitFrei\Documents\Visual Studio 2010\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\exp1.xnb
+C:\Users\ZeitFrei\Documents\Visual Studio 2010\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\exp2.xnb
+C:\Users\ZeitFrei\Documents\Visual Studio 2010\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\exp3.xnb
+C:\Users\ZeitFrei\Documents\Visual Studio 2010\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\exp4.xnb
+C:\Users\ZeitFrei\Documents\Visual Studio 2010\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\exp5.xnb
+C:\Users\ZeitFrei\Documents\Visual Studio 2010\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\exp6.xnb
+C:\Users\ZeitFrei\Documents\Visual Studio 2010\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\expsound.xnb
+C:\Users\Marco\Documents\Visual Studio 2010\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\player.xnb
+C:\Users\Marco\Documents\Visual Studio 2010\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\back2.xnb
+C:\Users\Marco\Documents\Visual Studio 2010\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\back3.xnb
+C:\Users\Marco\Documents\Visual Studio 2010\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\back1.xnb
+C:\Users\Marco\Documents\Visual Studio 2010\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\star.xnb
+C:\Users\Marco\Documents\Visual Studio 2010\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\shot1.xnb
+C:\Users\Marco\Documents\Visual Studio 2010\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\exp1.xnb
+C:\Users\Marco\Documents\Visual Studio 2010\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\exp2.xnb
+C:\Users\Marco\Documents\Visual Studio 2010\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\exp3.xnb
+C:\Users\Marco\Documents\Visual Studio 2010\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\exp4.xnb
+C:\Users\Marco\Documents\Visual Studio 2010\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\exp5.xnb
+C:\Users\Marco\Documents\Visual Studio 2010\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\exp6.xnb
+C:\Users\Marco\Documents\Visual Studio 2010\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\bgm1.xnb
+C:\Users\Marco\Documents\Visual Studio 2010\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\boss.xnb
+C:\Users\Marco\Documents\Visual Studio 2010\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\credits.xnb
+C:\Users\Marco\Documents\Visual Studio 2010\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\death.xnb
+C:\Users\Marco\Documents\Visual Studio 2010\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\intro.xnb
+C:\Users\Marco\Documents\Visual Studio 2010\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\level1.xnb
+C:\Users\Marco\Documents\Visual Studio 2010\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\level2.xnb
+C:\Users\Marco\Documents\Visual Studio 2010\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\level3.xnb
+C:\Users\Marco\Documents\Visual Studio 2010\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\level4.xnb
+C:\Users\Marco\Documents\Visual Studio 2010\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\level5.xnb
+C:\Users\Marco\Documents\Visual Studio 2010\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\start.xnb
+C:\Users\Marco\Documents\Visual Studio 2010\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\laser1.xnb
+C:\Users\Marco\Documents\Visual Studio 2010\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\laser2.xnb
+C:\Users\Marco\Documents\Visual Studio 2010\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\laser3.xnb
+C:\Users\Marco\Documents\Visual Studio 2010\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\laser4_0.xnb
+C:\Users\Marco\Documents\Visual Studio 2010\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\laser5.xnb
+C:\Users\Marco\Documents\Visual Studio 2010\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\laser6.xnb
+C:\Users\Marco\Documents\Visual Studio 2010\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\laser7.xnb
+C:\Users\Marco\Documents\Visual Studio 2010\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\laser8.xnb
+C:\Users\Marco\Documents\Visual Studio 2010\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\laser9.xnb
+C:\Users\Marco\Documents\Visual Studio 2010\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\expsound.xnb
+C:\Users\Marco\Documents\Visual Studio 2010\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\bgm1.wma
+C:\Users\Marco\Documents\Visual Studio 2010\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\boss.wma
+C:\Users\Marco\Documents\Visual Studio 2010\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\credits.wma
+C:\Users\Marco\Documents\Visual Studio 2010\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\death.wma
+C:\Users\Marco\Documents\Visual Studio 2010\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\intro.wma
+C:\Users\Marco\Documents\Visual Studio 2010\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\level1.wma
+C:\Users\Marco\Documents\Visual Studio 2010\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\level2.wma
+C:\Users\Marco\Documents\Visual Studio 2010\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\level3.wma
+C:\Users\Marco\Documents\Visual Studio 2010\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\level4.wma
+C:\Users\Marco\Documents\Visual Studio 2010\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\level5.wma
+C:\Users\Marco\Documents\Visual Studio 2010\Projects\Game1\Game1\Game1\bin\x86\Debug\Content\start.wma
+C:\Users\Marco\Documents\Visual Studio 2010\Projects\Game1\Game1\Game1\bin\x86\Debug\Game1.exe
+C:\Users\Marco\Documents\Visual Studio 2010\Projects\Game1\Game1\Game1\bin\x86\Debug\Game1.pdb
+C:\Users\Marco\Documents\Visual Studio 2010\Projects\Game1\Game1\Game1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Marco\Documents\Visual Studio 2010\Projects\Game1\Game1\Game1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Marco\Documents\Visual Studio 2010\Projects\Game1\Game1\Game1\obj\x86\Debug\Game1.exe
+C:\Users\Marco\Documents\Visual Studio 2010\Projects\Game1\Game1\Game1\obj\x86\Debug\Game1.pdb
+C:\Users\ZeitFrei\Downloads\Game1\Game1\Game1\bin\x86\Debug\Game1.exe
+C:\Users\ZeitFrei\Downloads\Game1\Game1\Game1\bin\x86\Debug\Game1.pdb
+C:\Users\ZeitFrei\Downloads\Game1\Game1\Game1\obj\x86\Debug\Game1.csprojResolveAssemblyReference.cache
+C:\Users\ZeitFrei\Downloads\Game1\Game1\Game1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\ZeitFrei\Downloads\Game1\Game1\Game1\obj\x86\Debug\Game1.exe
+C:\Users\ZeitFrei\Downloads\Game1\Game1\Game1\obj\x86\Debug\Game1.pdb
+C:\Users\ZeitFrei\Desktop\Game1\Game1\Game1\bin\x86\Debug\Game1.exe
+C:\Users\ZeitFrei\Desktop\Game1\Game1\Game1\bin\x86\Debug\Game1.pdb
+C:\Users\ZeitFrei\Desktop\Game1\Game1\Game1\obj\x86\Debug\Game1.csprojResolveAssemblyReference.cache
+C:\Users\ZeitFrei\Desktop\Game1\Game1\Game1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\ZeitFrei\Desktop\Game1\Game1\Game1\obj\x86\Debug\Game1.exe
+C:\Users\ZeitFrei\Desktop\Game1\Game1\Game1\obj\x86\Debug\Game1.pdb
+C:\Users\ZeitFrei\Desktop\Game1\Game1\Game1\bin\x86\Debug\Content\Textures\player.xnb
+C:\Users\ZeitFrei\Desktop\Game1\Game1\Game1\bin\x86\Debug\Content\Textures\back1.xnb
+C:\Users\ZeitFrei\Desktop\Game1\Game1\Game1\bin\x86\Debug\Content\Textures\star.xnb
+C:\Users\ZeitFrei\Desktop\Game1\Game1\Game1\bin\x86\Debug\Content\Textures\shotGreen.xnb
+C:\Users\ZeitFrei\Desktop\Game1\Game1\Game1\bin\x86\Debug\Content\Textures\exp1.xnb
+C:\Users\ZeitFrei\Desktop\Game1\Game1\Game1\bin\x86\Debug\Content\Textures\exp2.xnb
+C:\Users\ZeitFrei\Desktop\Game1\Game1\Game1\bin\x86\Debug\Content\Textures\exp3.xnb
+C:\Users\ZeitFrei\Desktop\Game1\Game1\Game1\bin\x86\Debug\Content\Textures\exp4.xnb
+C:\Users\ZeitFrei\Desktop\Game1\Game1\Game1\bin\x86\Debug\Content\Textures\exp5.xnb
+C:\Users\ZeitFrei\Desktop\Game1\Game1\Game1\bin\x86\Debug\Content\Textures\exp6.xnb
+C:\Users\ZeitFrei\Desktop\Game1\Game1\Game1\bin\x86\Debug\Content\Textures\enemy_blue.xnb
+C:\Users\ZeitFrei\Desktop\Game1\Game1\Game1\bin\x86\Debug\Content\Textures\enemy_green.xnb
+C:\Users\ZeitFrei\Desktop\Game1\Game1\Game1\bin\x86\Debug\Content\Textures\shot0red.xnb
+C:\Users\ZeitFrei\Desktop\Game1\Game1\Game1\bin\x86\Debug\Content\Textures\shot0bigblue.xnb
+C:\Users\ZeitFrei\Desktop\Game1\Game1\Game1\bin\x86\Debug\Content\Sounds\laser2.xnb
+C:\Users\ZeitFrei\Desktop\Game1\Game1\Game1\bin\x86\Debug\Content\Sounds\laser7.xnb
+C:\Users\ZeitFrei\Desktop\Game1\Game1\Game1\bin\x86\Debug\Content\Sounds\level7.xnb
+C:\Users\ZeitFrei\Desktop\Game1\Game1\Game1\bin\x86\Debug\Content\Sounds\level7.wma
+C:\Users\ZeitFrei\Desktop\Game1\Game1\Game1\bin\x86\Debug\Content\Sounds\boom2.xnb
+C:\Users\ZeitFrei\Desktop\Game1\Game1\Game1\bin\x86\Debug\Content\Sounds\boom9.xnb
+C:\Users\ZeitFrei\Desktop\Game1\Game1\Game1\bin\x86\Debug\Game1.exe.manifest
+C:\Users\ZeitFrei\Desktop\Game1\Game1\Game1\bin\x86\Debug\Game1.application
+C:\Users\ZeitFrei\Desktop\Game1\Game1\Game1\obj\x86\Debug\Game1.exe.manifest
+C:\Users\ZeitFrei\Desktop\Game1\Game1\Game1\obj\x86\Debug\Game1.application
+C:\Users\ZeitFrei\Desktop\Game1\Game1\Game1\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\ZeitFrei\Desktop\Game1\Game1\Game1\bin\x86\Debug\Content\SpriteFont2.xnb
+C:\Users\ZeitFrei\Downloads\Game1\Game1\Game1\bin\x86\Debug\Content\Textures\player.xnb
+C:\Users\ZeitFrei\Downloads\Game1\Game1\Game1\bin\x86\Debug\Content\Textures\back1.xnb
+C:\Users\ZeitFrei\Downloads\Game1\Game1\Game1\bin\x86\Debug\Content\Textures\star.xnb
+C:\Users\ZeitFrei\Downloads\Game1\Game1\Game1\bin\x86\Debug\Content\Textures\shotGreen.xnb
+C:\Users\ZeitFrei\Downloads\Game1\Game1\Game1\bin\x86\Debug\Content\Textures\exp1.xnb
+C:\Users\ZeitFrei\Downloads\Game1\Game1\Game1\bin\x86\Debug\Content\Textures\exp2.xnb
+C:\Users\ZeitFrei\Downloads\Game1\Game1\Game1\bin\x86\Debug\Content\Textures\exp3.xnb
+C:\Users\ZeitFrei\Downloads\Game1\Game1\Game1\bin\x86\Debug\Content\Textures\exp4.xnb
+C:\Users\ZeitFrei\Downloads\Game1\Game1\Game1\bin\x86\Debug\Content\Textures\exp5.xnb
+C:\Users\ZeitFrei\Downloads\Game1\Game1\Game1\bin\x86\Debug\Content\Textures\exp6.xnb
+C:\Users\ZeitFrei\Downloads\Game1\Game1\Game1\bin\x86\Debug\Content\Textures\enemy_blue.xnb
+C:\Users\ZeitFrei\Downloads\Game1\Game1\Game1\bin\x86\Debug\Content\Textures\enemy_green.xnb
+C:\Users\ZeitFrei\Downloads\Game1\Game1\Game1\bin\x86\Debug\Content\Textures\shot0red.xnb
+C:\Users\ZeitFrei\Downloads\Game1\Game1\Game1\bin\x86\Debug\Content\Textures\shot0bigblue.xnb
+C:\Users\ZeitFrei\Downloads\Game1\Game1\Game1\bin\x86\Debug\Content\Sounds\laser2.xnb
+C:\Users\ZeitFrei\Downloads\Game1\Game1\Game1\bin\x86\Debug\Content\Sounds\laser7.xnb
+C:\Users\ZeitFrei\Downloads\Game1\Game1\Game1\bin\x86\Debug\Content\Sounds\boom2.xnb
+C:\Users\ZeitFrei\Downloads\Game1\Game1\Game1\bin\x86\Debug\Content\Sounds\boom9.xnb
+C:\Users\ZeitFrei\Downloads\Game1\Game1\Game1\bin\x86\Debug\Content\Sounds\level7.xnb
+C:\Users\ZeitFrei\Downloads\Game1\Game1\Game1\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\ZeitFrei\Downloads\Game1\Game1\Game1\bin\x86\Debug\Content\SpriteFont2.xnb
+C:\Users\ZeitFrei\Downloads\Game1\Game1\Game1\bin\x86\Debug\Content\Sounds\level7.wma
+C:\Users\ZeitFrei\Downloads\Game1\Game1\Game1\bin\x86\Debug\Game1.exe.manifest
+C:\Users\ZeitFrei\Downloads\Game1\Game1\Game1\bin\x86\Debug\Game1.application
+C:\Users\ZeitFrei\Downloads\Game1\Game1\Game1\obj\x86\Debug\Game1.exe.manifest
+C:\Users\ZeitFrei\Downloads\Game1\Game1\Game1\obj\x86\Debug\Game1.application
+C:\Users\ZeitFrei\Downloads\Game1\Game1\Game1\bin\x86\Debug\Content\Sounds\FX068.xnb
+C:\Users\ZeitFrei\Downloads\Game1\Game1\Game1\bin\x86\Debug\Content\intro1.xnb
+C:\Users\ZeitFrei\Downloads\Game1\Game1\Game1\bin\x86\Debug\Content\intro1.wmv
+C:\Users\ZeitFrei\Downloads\Game1\Game1\Game1\bin\x86\Debug\Content\Sounds\au_intro1.xnb
+C:\Users\ZeitFrei\Downloads\Game1\Game1\Game1\bin\x86\Debug\Content\Sounds\au_intro1.wma
+E:\Uni\Lokal\Game1\Game1\Game1\obj\x86\Debug\Game1.exe
+E:\Uni\Lokal\Game1\Game1\Game1\obj\x86\Debug\Game1.pdb
+E:\Uni\Lokal\Game1\Game1\Game1\bin\x86\Debug\Content\Textures\player.xnb
+E:\Uni\Lokal\Game1\Game1\Game1\bin\x86\Debug\Content\Textures\back1.xnb
+E:\Uni\Lokal\Game1\Game1\Game1\bin\x86\Debug\Content\Textures\star.xnb
+E:\Uni\Lokal\Game1\Game1\Game1\bin\x86\Debug\Content\Textures\shotGreen.xnb
+E:\Uni\Lokal\Game1\Game1\Game1\bin\x86\Debug\Content\Textures\exp1.xnb
+E:\Uni\Lokal\Game1\Game1\Game1\bin\x86\Debug\Content\Textures\exp2.xnb
+E:\Uni\Lokal\Game1\Game1\Game1\bin\x86\Debug\Content\Textures\exp3.xnb
+E:\Uni\Lokal\Game1\Game1\Game1\bin\x86\Debug\Content\Textures\exp4.xnb
+E:\Uni\Lokal\Game1\Game1\Game1\bin\x86\Debug\Content\Textures\exp5.xnb
+E:\Uni\Lokal\Game1\Game1\Game1\bin\x86\Debug\Content\Textures\exp6.xnb
+E:\Uni\Lokal\Game1\Game1\Game1\bin\x86\Debug\Content\Textures\enemy_blue.xnb
+E:\Uni\Lokal\Game1\Game1\Game1\bin\x86\Debug\Content\Textures\enemy_green.xnb
+E:\Uni\Lokal\Game1\Game1\Game1\bin\x86\Debug\Content\Textures\shot0red.xnb
+E:\Uni\Lokal\Game1\Game1\Game1\bin\x86\Debug\Content\Textures\shot0bigblue.xnb
+E:\Uni\Lokal\Game1\Game1\Game1\bin\x86\Debug\Content\Sounds\laser2.xnb
+E:\Uni\Lokal\Game1\Game1\Game1\bin\x86\Debug\Content\Sounds\laser7.xnb
+E:\Uni\Lokal\Game1\Game1\Game1\bin\x86\Debug\Content\Sounds\boom2.xnb
+E:\Uni\Lokal\Game1\Game1\Game1\bin\x86\Debug\Content\Sounds\boom9.xnb
+E:\Uni\Lokal\Game1\Game1\Game1\bin\x86\Debug\Content\Sounds\FX068.xnb
+E:\Uni\Lokal\Game1\Game1\Game1\bin\x86\Debug\Content\Sounds\level7.xnb
+E:\Uni\Lokal\Game1\Game1\Game1\bin\x86\Debug\Content\Sounds\au_intro1.xnb
+E:\Uni\Lokal\Game1\Game1\Game1\bin\x86\Debug\Content\SpriteFont1.xnb
+E:\Uni\Lokal\Game1\Game1\Game1\bin\x86\Debug\Content\SpriteFont2.xnb
+E:\Uni\Lokal\Game1\Game1\Game1\bin\x86\Debug\Content\intro1.xnb
+E:\Uni\Lokal\Game1\Game1\Game1\bin\x86\Debug\Content\Sounds\level7.wma
+E:\Uni\Lokal\Game1\Game1\Game1\bin\x86\Debug\Content\Sounds\au_intro1.wma
+E:\Uni\Lokal\Game1\Game1\Game1\bin\x86\Debug\Content\intro1.wmv
+E:\Uni\Lokal\Game1\Game1\Game1\bin\x86\Debug\Game1.exe.manifest
+E:\Uni\Lokal\Game1\Game1\Game1\bin\x86\Debug\Game1.application
+E:\Uni\Lokal\Game1\Game1\Game1\bin\x86\Debug\Game1.exe
+E:\Uni\Lokal\Game1\Game1\Game1\bin\x86\Debug\Game1.pdb
+E:\Uni\Lokal\Game1\Game1\Game1\obj\x86\Debug\Game1.csprojResolveAssemblyReference.cache
+E:\Uni\Lokal\Game1\Game1\Game1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Uni\Lokal\Game1\Game1\Game1\obj\x86\Debug\Game1.exe.manifest
+E:\Uni\Lokal\Game1\Game1\Game1\obj\x86\Debug\Game1.application
+E:\Uni\Lokal\Game1\Game1\Game1\bin\x86\Debug\Content\Textures\redexplosion.xnb
+E:\Uni\Lokal\Game1\Game1\Game1\bin\x86\Debug\Content\Textures\expredsheet.xnb
+E:\Uni\Lokal\Game1\Game1\Game1\bin\x86\Debug\Content\Textures\expbluesheet.xnb
+E:\Uni\Lokal\Game1\Game1\Game1\bin\x86\Debug\Content\Textures\testsheet.xnb
+E:\Uni\Lokal\Game1\Game1\Game1\bin\x86\Debug\Content\Textures\propulsion.xnb
+E:\Uni\Lokal\Game1\Game1\Game1\bin\x86\Debug\Content\Textures\bgship_al1.xnb
+E:\Uni\Lokal\Game1\Game1\Game1\bin\x86\Debug\Content\Textures\bgship_al2.xnb
+E:\Uni\Lokal\Game1\Game1\Game1\bin\x86\Debug\Content\Textures\bgship_en1.xnb
+E:\Uni\Lokal\Game1\Game1\Game1\bin\x86\Debug\Content\Textures\bgship_en2.xnb

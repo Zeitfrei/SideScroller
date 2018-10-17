@@ -1,0 +1,5 @@
+C:\Users\ZeitFrei\Documents\Visual Studio 2010\Projects\Game1\Game1\Game1Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Marco\Documents\Visual Studio 2010\Projects\Game1\Game1\Game1Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ZeitFrei\Downloads\Game1\Game1\Game1Content\obj\x86\Debug\Game1Content.contentprojResolveAssemblyReference.cache
+C:\Users\ZeitFrei\Desktop\Game1\Game1\Game1Content\obj\x86\Debug\Game1Content.contentprojResolveAssemblyReference.cache
+E:\Uni\Lokal\Game1\Game1\Game1Content\obj\x86\Debug\Game1Content.contentprojResolveAssemblyReference.cache
